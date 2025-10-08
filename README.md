@@ -2,8 +2,8 @@
 
 ## 🔥 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgbajeStephen&show_icons=true&theme=radical" alt="Stephens's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Agbajestephen&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Agbajestephen&show_icons=true&theme=radical" alt="Stephens's Github stats"/>
+<img src="https://streak-stats.demolab.com/?user=Agbajestephen&theme=radical" alt="Github Streak"/>
 </p>
 
 <!--
