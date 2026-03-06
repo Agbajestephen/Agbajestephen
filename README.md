@@ -22,3 +22,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Wealthometer/Wealthometer/blob/output/github-snake-dark.svg)
+</div>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
+</p>
+<!-- 
+## 🐍 Watch my contributions get eaten!
+<p align="center">
+  <img src="https://github.com/Wealthometer/Wealthometer/blob/output/snake.svg" alt="Snake animation" />
+</p> -->
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Wealthometer/Wealthometer/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Wealthometer/Wealthometer/blob/output/snake.svg" />
+  <img alt="snake animation" src="https://github.com/Wealthometer/Wealthometer/blob/output/snake.svg" />
+</picture> -->
