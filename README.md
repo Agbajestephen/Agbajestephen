@@ -1,28 +1,43 @@
-# Welcome to My Profile
+## Hi there 👋
 
-![Profile Snake Animation](https://github.com/Agbajestephen/github-readme-stats/blob/master/generated/languages.svg)
+## 🔥 My Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Agbajestephen&show_icons=true&theme=radical" alt="Stephens's Github stats"/>
+<img src="https://streak-stats.demolab.com/?user=Agbajestephen&theme=radical" alt="Github Streak"/>
+</p>
 
-## 👨‍💻 About Me
+<!--
+**Agbajestephen/Agbajestephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on my GitHub profile.
-- 🌱 I’m currently learning about new development technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with advanced React Native.
-- 💬 Ask me about web development, JavaScript, and Python.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
-- ⚡ Fun fact: I enjoy playing chess!
 
-## ⚡ GitHub Stats
+Here are some ideas to get you started:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agbajestephen&show_icons=true&theme=radical)
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Agbajestephen/Agbajestephen/blob/output/github-snake-dark.svg)
+</div>
 
-## 🛠️ Technologies & Tools
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer" />
+</p>
+<!-- 
+## 🐍 Watch my contributions get eaten!
+<p align="center">
+  <img src="https://github.com/Agbajestephen/Agbajestephen/blob/output/snake.svg" alt="Snake animation" />
+</p> -->
 
-- Languages: Python, JavaScript
-- Frameworks: React, Node.js
-- Tools: Git, GitHub, VSCode
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Username-skyblue)](https://twitter.com/yourusername)
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Agbajestephen/Agbajestephen/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Agbajestephen/Agbajestephen/blob/output/snake.svg" />
+  <img alt="snake animation" src="https://github.com/Agbajestephen/Agbajestephen/blob/output/snake.svg" />
+</picture> -->
